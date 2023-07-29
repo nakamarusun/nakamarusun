@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [▓▓▓▓▓▓▓▓▓ ] Javascript/Typescript
 [▓▓▓▓▓▓▓   ] Go
 [▓▓▓▓▓▓▓   ] Python
-[▓▓▓▓▓▓   ] C++
+[▓▓▓▓▓▓    ] C++
 [▓▓▓▓▓▓    ] Java
 [▓▓▓▓▓     ] C
 
