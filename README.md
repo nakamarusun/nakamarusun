@@ -64,5 +64,6 @@ Here are some ideas to get you started:
 [▓▓▓▓▓▓    ] Pixel Art
 [▓▓▓▓▓     ] Fusion 360
 [▓▓▓▓▓     ] 3D printing
+[▓         ] Dota 2
 ```
 [![wakatime time](https://github-readme-stats.vercel.app/api/wakatime?username=nakamarusun&layout=compact&custom_title=wakatime+wakatime+wakatime)](https://github.com/anuraghazra/github-readme-stats)
