@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 [▓▓▓▓▓     ] Fusion 360
 [▓▓▓▓▓     ] 3D printing
 ```
-[![wakatime time](https://github-readme-stats.vercel.app/api/wakatime?username=nakamarusun&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime time](https://github-readme-stats.vercel.app/api/wakatime?username=nakamarusun&layout=compact&custom_title=wakatime+wakatime+wakatime)](https://github.com/anuraghazra/github-readme-stats)
