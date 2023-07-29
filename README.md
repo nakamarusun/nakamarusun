@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 ### Programming Languages
 [▓▓▓▓▓▓▓▓▓ ] Javascript/Typescript
 [▓▓▓▓▓▓▓   ] Go
-[▓▓▓▓▓▓▓   ] C++
 [▓▓▓▓▓▓▓   ] Python
+[▓▓▓▓▓▓   ] C++
 [▓▓▓▓▓▓    ] Java
 [▓▓▓▓▓     ] C
 
 ### Backend
 [▓▓▓▓▓▓▓▓  ] Golang (Gin, GraphQL)
-[▓▓▓▓▓▓▓   ] Node (Express, Socket.IO)
+[▓▓▓▓▓▓▓▓  ] Node (Express, Socket.IO)
 [▓▓▓▓      ] Java (Spring Boot)
 
 ### Frontend
