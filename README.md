@@ -13,13 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://media.tenor.com/jdwSuJtlxXkAAAAC/hurricane-irma.gif">
+<img style="margin-top: 64px;" align="right" src="https://media.tenor.com/jdwSuJtlxXkAAAAC/hurricane-irma.gif">
 
-# 🛠 Welcome Welcome Welcome 👯‍♀️
+#### I'm a Hardware Engineer with experience in full-stack development.
 
-### I'm a full-stack developer with interest in embedded development.
+### SOME WORK FAX
+- Currently working as a Hardware Engineer in a government water company. I am designing and developing various very low power sensors that communicates using the LoRaWAN protocol for usage in production environtments. The goal of the data acquisition is to ensure prime water delivery to the consumer and to reduce Non-Revenue Water (NRW).
+- As a result of my work, I am familiarized with the LoRa radio, LoRaWAN protocol, and its gateways, very low power embedded software and hardware design, and IoT data processing acquisition.
+- On the full-stack side, I have job experience in React (Typescript, Redux, SCSS, Tailwind, Playwright and Jest testing), Angular.
+- On the backend side, Node.js (Nest.js, Typescript, Swagger), Golang Gin. I have experience in using MQTT, Websockets, WebRTC, and Server-Sent Events (I love it when your app updates live!).
+- My cloud of choice is Google Cloud.
+- Do check out Wonder Reader!
 - [Check out my website](https://jasoncoding.com)
-- Do check out Wonder Reader
 - contact for any inquiries 😊
 
 
@@ -27,43 +32,20 @@ Here are some ideas to get you started:
 ## My development skillset includes (Self-Rated proficiency out of 10):
 ```
 ### Programming Languages
-[▓▓▓▓▓▓▓▓▓ ] Javascript/Typescript
-[▓▓▓▓▓▓▓   ] Go
-[▓▓▓▓▓▓▓   ] Python
-[▓▓▓▓▓▓    ] C++
-[▓▓▓▓▓▓    ] Java
-[▓▓▓▓▓     ] C
-
-### Backend
-[▓▓▓▓▓▓▓▓  ] Golang (Gin, GraphQL)
-[▓▓▓▓▓▓▓▓  ] Node (Express, Socket.IO)
-[▓▓▓▓      ] Java (Spring Boot)
-
-### Frontend
-[▓▓▓▓▓▓▓▓▓ ] React (Redux, Redux-Saga, MUI, Jest testing, Playwright, Tailwind)
-[▓▓▓▓▓▓▓▓  ] Plain ol' HTML/CSS/JS
-[▓▓▓▓      ] Angular (Material, Karma)
-
-### Database
-[▓▓▓▓▓▓▓   ] Firebase
-[▓▓▓▓▓     ] Redis
-[▓▓▓▓      ] MySQL
-
-### Cloud
-[▓▓▓▓▓▓▓▓  ] Docker
-[▓▓▓▓▓▓▓   ] Google Cloud Platform (Compute Engine, Cloud Run, Cloud Storage, Kubernetes Engine)
-[▓▓▓▓▓▓▓   ] GitHub Actions
-[▓▓▓▓▓     ] Kubernetes
-
-### Hardware
-[▓▓▓▓▓▓▓▓  ] ESP32 (ESP-IDF)
-[▓▓▓▓      ] nRF Platform (Zephyr)
+[▓▓▓▓▓▓▓▓  ] Javascript/Typescript
+[▓▓▓▓▓▓▓   ] C
+[▓▓▓▓▓▓    ] Go
+[▓▓▓▓▓     ] Python
+[▓▓▓▓▓     ] C++
+[▓▓▓▓      ] Java
 
 ### Others
 [▓▓▓▓▓▓▓▓  ] Linux Administration (Ubuntu)
-[▓▓▓▓▓▓    ] Pixel Art
-[▓▓▓▓▓     ] Fusion 360
+[▓▓▓▓▓▓    ] Fusion 360
+[▓▓▓▓▓     ] Pixel Art
 [▓▓▓▓▓     ] 3D printing
 [▓         ] Dota 2
 ```
-[![wakatime time](https://github-readme-stats.vercel.app/api/wakatime?username=nakamarusun&layout=compact&custom_title=wakatime+wakatime+wakatime)](https://github.com/anuraghazra/github-readme-stats)
+
+![wakapi activity](https://trackmycode.jasoncoding.com/api/activity/chart/ebingaming.svg)
+[![wakapi___time](https://github-readme-stats.vercel.app/api/wakatime?username=ebingaming&api_domain=trackmycode.jasoncoding.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=waka+waka+waka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
