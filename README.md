@@ -27,25 +27,5 @@ Here are some ideas to get you started:
 - [Check out my website](https://jasoncoding.com)
 - contact for any inquiries 😊
 
-
-
-## My development skillset includes (Self-Rated proficiency out of 10):
-```
-### Programming Languages
-[▓▓▓▓▓▓▓▓  ] Javascript/Typescript
-[▓▓▓▓▓▓▓   ] C
-[▓▓▓▓▓▓    ] Go
-[▓▓▓▓▓     ] Python
-[▓▓▓▓▓     ] C++
-[▓▓▓▓      ] Java
-
-### Others
-[▓▓▓▓▓▓▓▓  ] Linux Administration (Ubuntu)
-[▓▓▓▓▓▓    ] Fusion 360
-[▓▓▓▓▓     ] Pixel Art
-[▓▓▓▓▓     ] 3D printing
-[▓         ] Dota 2
-```
-
 ![wakapi activity](https://trackmycode.jasoncoding.com/api/activity/chart/ebingaming.svg)
 [![wakapi___time](https://github-readme-stats.vercel.app/api/wakatime?username=ebingaming&api_domain=trackmycode.jasoncoding.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=waka+waka+waka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
